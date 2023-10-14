@@ -7,7 +7,7 @@ For this we are provided with a dataset which contains features like
 Date, Opening Price, Highest Price, Lowest Price, Closing Price, Adjusted Closing Price, Volume.
 Based on the given features, develop a RNN model to predict, the price of stocks in future.
 ## NEURAL NETWORK MODEL:
-![output](op3.png)
+![output](op3.jpeg)
 
 ## DESIGN STEPS:
 ### STEP 1:
